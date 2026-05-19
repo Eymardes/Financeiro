@@ -30,7 +30,6 @@ Também é possível:
 
 ## Estrutura
 
-```bash
 financeiro.html
 README.md
 .gitignore
